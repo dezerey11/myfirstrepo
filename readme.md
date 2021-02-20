@@ -55,4 +55,5 @@ git log --oneLine
 - to add a remote `git remote add <name> <url>`
 - to see list of remotes `git remote -v`
 - to the push code `git push <remotename> <branchName>`
+- to remove a remote `git remote rm <remoteName>`
 - to see your current branch `git branch`
